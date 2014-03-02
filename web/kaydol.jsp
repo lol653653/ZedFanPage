@@ -12,6 +12,11 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>:D</h1>
+        <form>
+İsim: <input type="text" name="firstname"><br>
+Soyad: <input type="text" name="lastname"><br>
+Şifre: <input type="password" name="pwd"><br>
+Şifre Tekrar: <input type="password" name="pwd">
+</form>
     </body>
 </html>
